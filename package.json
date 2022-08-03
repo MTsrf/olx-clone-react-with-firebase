@@ -2,7 +2,7 @@
   "name": "olx",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://MTsrf.github.io/olx-clone-react-with-firebase",
+  "homepage": "https://mtsrf.github.io/olx-clone-react-with-firebase",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
